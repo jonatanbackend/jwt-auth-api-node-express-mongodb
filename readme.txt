@@ -165,7 +165,3 @@ Editar
 1. **Guardar el archivo**: Guarda este contenido como `README.md` en la raíz de tu repositorio.
 2. **Sube tu proyecto**: Si no lo has hecho ya, sube tu proyecto al repositorio de GitHub.
 3. **Verifica el README**: Cuando tu repositorio esté en GitHub, podrás ver el archivo README directamente en la página principal de tu repositorio.
-
-Con este README bien detallado, otras personas podrán fácilmente comprender cómo funciona tu proyecto, cómo usar la API, y cómo configurarlo localmente. ¡También será una gran ayuda si decides mostrarlo a posibles empleadores o colaboradores! 
-
-¿Te gustaría agregar algo más al README?
